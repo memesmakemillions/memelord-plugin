@@ -1,0 +1,18 @@
+{
+  "name": "memelord",
+  "owner": {
+    "name": "Memelord",
+    "email": "support@memelord.com"
+  },
+  "metadata": {
+    "description": "Cursor plugins for Memelord, the AI meme and video maker",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "memelord",
+      "source": "./plugins/memelord",
+      "description": "Skills that teach the agent to make image memes, video memes, Higgsfield AI videos, and Higgsfield Genjutsu character swaps with Memelord"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "memelord",
+  "displayName": "Memelord",
+  "version": "0.2.0",
+  "description": "Make memes from Cursor: caption templates, AI-remixed memes, meme edits, video memes, Higgsfield AI video models, Higgsfield Genjutsu character swaps, and account balance checks with Memelord.",
+  "author": {
+    "name": "Memelord",
+    "email": "support@memelord.com"
+  },
+  "homepage": "https://www.memelord.com",
+  "repository": "https://github.com/memesmakemillions/memelord-plugin",
+  "license": "MIT",
+  "keywords": [
+    "memelord",
+    "memes",
+    "meme-generator",
+    "video",
+    "higgsfield",
+    "genjutsu",
+    "ai-video",
+    "skills",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "memelord",
+    "memes",
+    "video",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": ".cursor-plugin/mcp.json"
+}
